@@ -64,4 +64,4 @@ jobs:
         with:
           app-name: 'bca-sitecore91-dev-cd'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_671D0709488740348064E8416D6408D3 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B38A3EA723F74F88AB0824F0919B8C33 }}
