@@ -1,6 +1,6 @@
 from flask import Flask
 app = Flask(__name__)
 
-@app.route("/")
+@app.route("/forms/explore-our-research")
 def hello():
-    return "Hello, World!"
+    return "Subdomain Takeover PoC by AP :>"
